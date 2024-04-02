@@ -1,0 +1,10 @@
+Yagi Tx, Taoglas Rx
+1-1.5 GHz, 10001 points, 30 kHz IF BW
+test0: nothing in front
+test1: 220 cm
+test2: 180 cm
+test3: 140 cm
+test4: 100 cm
+test5: 60 cm
+test6: 20 cm
+

@@ -1,0 +1,14 @@
+35 cm separation between taoglas antennas
+800 MHz - 6 GHz
+10001 points
+30 kHz IF BW
+
+test0: coax cables
+test1: empty
+test2: 240 cm
+test3: 200 cm
+test4: 160
+test5: 120
+test6: 80
+test7: 40
+test8: 20

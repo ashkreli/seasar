@@ -1,0 +1,8 @@
+Shorter trial
+both antennas are Taoglas
+1-2 GHz
+1 KHz IF
+Points 4001
+Sweep time 19.1 s
+test0: empty
+test1: 130 cm

@@ -1,0 +1,16 @@
+Mon, Feb 19, 2024 - Trial 2
+FieldFox
+Tried with new more directional antennas (which are rated for 1.4-10.5 GHz)
+1.5-6 GHz, 10001 points, IF BW 30 kHz
+30 cm separation (marking from the middle of the antennas where there is an
+arrow)
+test0: empty
+test1: 250 cm
+test2: 220 cm
+test3: 190 cm
+test4: 160 cm
+test5: 130 cm
+test6: 100 cm
+test7: 70 cm
+test8: 40 cm
+test9: 20 cm
